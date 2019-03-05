@@ -116,7 +116,7 @@
     <plugin name="nl.kingsquare.cordova.background-audio" spec="^1.0.1" />
     <plugin name="phonegap-plugin-push" spec="https://github.com/moodlemobile/phonegap-plugin-push.git#moodle">
 	
-	<plugin spec="https://github.com/neptsoft/cordova-plugin-file-opener2" source="git" />
+	
 	
         <variable name="SENDER_ID" value="694767596569" />
     </plugin>
